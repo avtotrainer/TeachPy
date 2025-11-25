@@ -1,0 +1,2 @@
+print("HELLO WORLD")
+print("THIS IS MY FIRST PYTHON PROGRAM")
